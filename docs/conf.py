@@ -1,4 +1,4 @@
-project = "Balmorel"
+project = "Balmorel Community"
 copyright = "2024, Mathias Berg Rosendal"
 author = "Mathias Berg Rosendal"
 release = "0.3.4"
